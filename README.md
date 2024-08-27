@@ -1,4 +1,4 @@
-# Flask Student Performance Analysis App
+#  Student Performance Analysis App
 
 This is a Flask web application that allows users to upload student performance data, analyze it, and generate reports.
 
@@ -20,5 +20,5 @@ This is a Flask web application that allows users to upload student performance 
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
-   cd yourrepository
+   git clone https://github.com/Hastings00/Hastings00.git
+   cd Hastings00
